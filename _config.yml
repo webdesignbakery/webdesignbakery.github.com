@@ -1,0 +1,12 @@
+name: Web Design Bakery
+description: "An experiment in development"
+meta_description: "web design bakery"
+
+markdown: redcarpet
+pygments: true
+logo: false
+paginate: 15
+
+# Details for the RSS feed generator
+url:            'http://webdesignbakery.com'
+author:         'Eric Shelley'
