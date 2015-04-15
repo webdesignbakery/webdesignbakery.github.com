@@ -2,4 +2,4 @@
 #### An experiment in development
 
 
-This is a blog for [bartimaeus](https://github.com/bartimaeus)
+This is a blog for [webdesignbakery](https://github.com/webdesignbakery)

@@ -1,11 +1,13 @@
 name: Web Design Bakery
 description: "An experiment in development"
-meta_description: "web design bakery"
+meta_description: "web design bakery blog"
+timezone: America/Denver
 
 markdown: redcarpet
-pygments: true
+highlighter: true
 logo: false
 paginate: 15
+baseurl: "/"
 
 # Details for the RSS feed generator
 url:            'http://webdesignbakery.com'

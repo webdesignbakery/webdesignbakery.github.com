@@ -8,16 +8,15 @@
     <title>Web Design Bakery</title>
     <link>http://webdesignbakery.com</link>
     <description>An experiment in development</description>
-    <pubDate>Sun, 10 Nov 2013 03:18:00 -0700</pubDate>
+    <pubDate>Wed, 15 Apr 2015 08:51:00 -0600</pubDate>
     <item>
-      <title>Welcome to Jekyll!</title>
-      <link>http://webdesignbakery.com/jekyll/update/2013/11/10/welcome-to-jekyll.html</link>
-      <description>&lt;p&gt;You&amp;#39;ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
-To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
+      <title>Downloadable S3 Assets</title>
+      <link>http://webdesignbakery.com/s3/2015/04/15/downloadable-s3-assets.html</link>
+      <description>&lt;p&gt;Today I needed to make an ebook (PDF) downloadable from a landing page and I didn&amp;#39;t want to have my web server do any special serving of assets. The problem with serving assets from S3 is that the browser will try to render pdfs and images. After some research and experimentation I found a way to have S3 serve the asset without the browser rendering it.&lt;/p&gt;
 </description>
-      <pubDate>Sun, 10 Nov 2013 03:18:00 -0700</pubDate>
-      <dc:date>2013-11-10T03:18:00-07:00</dc:date>
+      <pubDate>Wed, 15 Apr 2015 08:51:00 -0600</pubDate>
+      <dc:date>2015-04-15T08:51:00-06:00</dc:date>
     </item>
-    <dc:date>2013-11-10T03:18:00-07:00</dc:date>
+    <dc:date>2015-04-15T08:51:00-06:00</dc:date>
   </channel>
 </rss>

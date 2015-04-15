@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 
     <title>Web Design Bakery - An experiment in development</title>
-    <meta name="description" content="web design bakery" />
+    <meta name="description" content="web design bakery blog" />
 
     <meta name="HandheldFriendly" content="True" />
     <meta name="MobileOptimized" content="320" />
@@ -41,13 +41,12 @@
 
     <article class="post">
         <header class="post-header">
-            <span class="post-meta"><time datetime="2013-11-10">10 Nov 2013</time> </span>
-            <h2 class="post-title"><a href="/jekyll/update/2013/11/10/welcome-to-jekyll.html">Welcome to Jekyll!</a></h2>
+            <span class="post-meta"><time datetime="2015-04-15">15 Apr 2015</time> </span>
+            <h2 class="post-title"><a href="/s3/2015/04/15/downloadable-s3-assets.html">Downloadable S3 Assets</a></h2>
 
         </header>
         <section class="post-excerpt">
-            <p>You&#39;ll find this post in your <code>_posts</code> directory - edit this post and re-build (or run with the <code>-w</code> switch) to see your changes!
-To add new posts, simply add a file in the <code>_posts</code> directory that follows the convention: YYYY-MM-DD-name-of-post.ext.</p>
+            <p>Today I needed to make an ebook (PDF) downloadable from a landing page and I didn&#39;t want to have my web server do any special serving of assets. The problem with serving assets from S3 is that the browser will try to render pdfs and images. After some research and experimentation I found a way to have S3 serve the asset without the browser rendering it.</p>
 
         </section>
     </article>
